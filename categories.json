@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "Indian",
+      "image": "https://i.imgur.com/waWACfb.jpg"
+    },
+    {
+      "name": "Chinese",
+      "image": "https://i.imgur.com/MBcfIrB.jpg"
+    },
+    {
+      "name": "Burgers",
+      "image": "https://i.imgur.com/8yMFN78.jpg"
+    },
+    {
+      "name": "Pizza",
+      "image": "https://i.imgur.com/sCXJ4eG.jpg"
+    }
+  ]
+}
