@@ -1,0 +1,40 @@
+{
+  "featured": [
+    {
+      "name": "Discount 1",
+      "image": "https://i.imgur.com/hQOt3cj.jpg",
+      "rating": 4.5,
+      "category": "Japanese",
+      "address": "123 Main Street",
+      "lat": 53.5638883,
+      "long": -113.5037744
+    },
+    {
+      "name": "Discount 2",
+      "image": "https://i.imgur.com/62O35YK.jpg",
+      "rating": 4.8,
+      "category": "Indian",
+      "address": "52 Street Av",
+      "lat": 53.6638883,
+      "long": -112.5037744
+    },
+    {
+      "name": "Discount 3",
+      "image": "https://i.imgur.com/aUBeyn6.jpg",
+      "rating": 3.5,
+      "category": "Mexican",
+      "address": "82 St Av",
+      "lat": 53.7638883,
+      "long": -114.5037744
+    },
+    {
+      "name": "Discount 4",
+      "image": "https://i.imgur.com/doLX6SM.jpg",
+      "rating": 2.8,
+      "category": "Thai",
+      "address": "123 Main Street",
+      "lat": 53.5738883,
+      "long": -113.5137744
+    }
+  ]
+}
