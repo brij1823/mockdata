@@ -7,7 +7,39 @@
       "category": "Japanese",
       "address": "123 Main Street",
       "lat": 53.5638883,
-      "long": -113.5037744
+      "long": -113.5037744,
+      "dishes": [
+        {
+          "name": "Paneer Tikka",
+          "short_description": "Marinated paneer slices with indian gravy",
+          "price": 12,
+          "image": "https://i.imgur.com/WxJhix4.jpg"
+        },
+        {
+          "name": "Manchurian",
+          "short_description": "Crispy balls of spice",
+          "price": 7,
+          "image": "https://i.imgur.com/HIEhnb3.jpg"
+        },
+        {
+          "name": "Pakoda",
+          "short_description": "Fried balls of onion with chillies",
+          "price": 10,
+          "image": "https://i.imgur.com/AYKjAWB.jpg"
+        },
+        {
+          "name": "Dal Makhani",
+          "short_description": "Buttery dal with makhan",
+          "price": 12,
+          "image": "https://i.imgur.com/1lxvGb4.jpg"
+        },
+        {
+          "name": "Chana Masalaa",
+          "short_description": "Homecooked spice of chana",
+          "price": 15,
+          "image": "https://i.imgur.com/ihE0322.jpg"
+        }
+      ]
     },
     {
       "name": "Hotel 2",
@@ -16,7 +48,39 @@
       "category": "Indian",
       "address": "52 Street Av",
       "lat": 53.6638883,
-      "long": -112.5037744
+      "long": -112.5037744,
+      "dishes": [
+        {
+          "name": "Paneer Tikka",
+          "short_description": "Marinated paneer slices with indian gravy",
+          "price": 12,
+          "image": "https://i.imgur.com/WxJhix4.jpg"
+        },
+        {
+          "name": "Manchurian",
+          "short_description": "Crispy balls of spice",
+          "price": 7,
+          "image": "https://i.imgur.com/HIEhnb3.jpg"
+        },
+        {
+          "name": "Pakoda",
+          "short_description": "Fried balls of onion with chillies",
+          "price": 10,
+          "image": "https://i.imgur.com/AYKjAWB.jpg"
+        },
+        {
+          "name": "Dal Makhani",
+          "short_description": "Buttery dal with makhan",
+          "price": 12,
+          "image": "https://i.imgur.com/1lxvGb4.jpg"
+        },
+        {
+          "name": "Chana Masalaa",
+          "short_description": "Homecooked spice of chana",
+          "price": 15,
+          "image": "https://i.imgur.com/ihE0322.jpg"
+        }
+      ]
     },
     {
       "name": "Hotel 3",
@@ -25,7 +89,39 @@
       "category": "Mexican",
       "address": "82 St Av",
       "lat": 53.7638883,
-      "long": -114.5037744
+      "long": -114.5037744,
+      "dishes": [
+        {
+          "name": "Paneer Tikka",
+          "short_description": "Marinated paneer slices with indian gravy",
+          "price": 12,
+          "image": "https://i.imgur.com/WxJhix4.jpg"
+        },
+        {
+          "name": "Manchurian",
+          "short_description": "Crispy balls of spice",
+          "price": 7,
+          "image": "https://i.imgur.com/HIEhnb3.jpg"
+        },
+        {
+          "name": "Pakoda",
+          "short_description": "Fried balls of onion with chillies",
+          "price": 10,
+          "image": "https://i.imgur.com/AYKjAWB.jpg"
+        },
+        {
+          "name": "Dal Makhani",
+          "short_description": "Buttery dal with makhan",
+          "price": 12,
+          "image": "https://i.imgur.com/1lxvGb4.jpg"
+        },
+        {
+          "name": "Chana Masalaa",
+          "short_description": "Homecooked spice of chana",
+          "price": 15,
+          "image": "https://i.imgur.com/ihE0322.jpg"
+        }
+      ]
     },
     {
       "name": "Hotel 4",
@@ -34,7 +130,39 @@
       "category": "Thai",
       "address": "123 Main Street",
       "lat": 53.5738883,
-      "long": -113.5137744
+      "long": -113.5137744,
+      "dishes": [
+        {
+          "name": "Paneer Tikka",
+          "short_description": "Marinated paneer slices with indian gravy",
+          "price": 12,
+          "image": "https://i.imgur.com/WxJhix4.jpg"
+        },
+        {
+          "name": "Manchurian",
+          "short_description": "Crispy balls of spice",
+          "price": 7,
+          "image": "https://i.imgur.com/HIEhnb3.jpg"
+        },
+        {
+          "name": "Pakoda",
+          "short_description": "Fried balls of onion with chillies",
+          "price": 10,
+          "image": "https://i.imgur.com/AYKjAWB.jpg"
+        },
+        {
+          "name": "Dal Makhani",
+          "short_description": "Buttery dal with makhan",
+          "price": 12,
+          "image": "https://i.imgur.com/1lxvGb4.jpg"
+        },
+        {
+          "name": "Chana Masalaa",
+          "short_description": "Homecooked spice of chana",
+          "price": 15,
+          "image": "https://i.imgur.com/ihE0322.jpg"
+        }
+      ]
     }
   ]
 }
