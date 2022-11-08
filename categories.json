@@ -15,6 +15,10 @@
     {
       "name": "Pizza",
       "image": "https://i.imgur.com/sCXJ4eG.jpg"
+    },
+    {
+     "name": "Mexican",
+      "image": "https://i.imgur.com/GOVi9wk.jpg"
     }
   ]
 }
